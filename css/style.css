@@ -90,6 +90,8 @@ button {
   border-radius: 20px;
   border-style: none;
   outline: none;
+  font-size: 12px;
+  font-weight: 600;
   color: white;
   background-color: var(--BrightRed);
 }
